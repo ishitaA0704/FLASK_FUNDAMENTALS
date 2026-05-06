@@ -18,7 +18,7 @@ This repository is part of my learning journey with Flask. I followed the tutori
 
 This is not my primary project. You can check out my main website here:
 
-* https://github.com/ishitaA0704/FLASK-PROJECT-SLEEP-TRACKER-.git
+* https://flask-project-sleep-tracker.onrender.com/
 
 ## 🛠️ Tech Stack
 
